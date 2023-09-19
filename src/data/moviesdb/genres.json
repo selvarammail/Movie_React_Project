@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "65003c147ad91eb5e5b1c71a"
+  },
+  "genreid": 1,
+  "genre": "comedy"
+},
+{
+  "_id": {
+    "$oid": "65003c147ad91eb5e5b1c71b"
+  },
+  "genreid": 2,
+  "genre": "drama"
+},
+{
+  "_id": {
+    "$oid": "65003c147ad91eb5e5b1c71c"
+  },
+  "genreid": 3,
+  "genre": "action"
+},
+{
+  "_id": {
+    "$oid": "65003c147ad91eb5e5b1c71d"
+  },
+  "genreid": 4,
+  "genre": "romance"
+},
+{
+  "_id": {
+    "$oid": "65003c147ad91eb5e5b1c71e"
+  },
+  "genreid": 5,
+  "genre": "horror"
+},
+{
+  "_id": {
+    "$oid": "650040ed54bc6ad01879a2ec"
+  },
+  "genreid": 1,
+  "genre": "comedy"
+},
+{
+  "_id": {
+    "$oid": "650040ed54bc6ad01879a2ed"
+  },
+  "genreid": 2,
+  "genre": "drama"
+},
+{
+  "_id": {
+    "$oid": "650040ed54bc6ad01879a2ee"
+  },
+  "genreid": 3,
+  "genre": "action"
+},
+{
+  "_id": {
+    "$oid": "650040ed54bc6ad01879a2ef"
+  },
+  "genreid": 4,
+  "genre": "romance"
+},
+{
+  "_id": {
+    "$oid": "650040ed54bc6ad01879a2f0"
+  },
+  "genreid": 5,
+  "genre": "horror"
+}]
